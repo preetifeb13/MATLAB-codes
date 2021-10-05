@@ -1,0 +1,7 @@
+prompt_a = 'Enter the value of a: ';
+a = input(prompt_a);
+prompt_b = 'Enter the value of b: ';
+b = input(prompt_b);
+sum = a + b;
+fprintf('Sum: %d \n', sum);
+
